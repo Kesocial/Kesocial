@@ -11,3 +11,13 @@ That is my essence and my goal, to provide the best experience and service to my
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kesocial&repo=ChallengeScrapper&theme=radical&hide_border=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kesocial&repo=Olimpiadas2022&theme=radical&hide_border=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kesocial&repo=RustAPI&theme=radical&hide_border=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kesocial&repo=map-box-visualizer&theme=radical&hide_border=true)
 ## Skills and expertise :books:
+### Specialties
+ -  HTML  / CSS  
+ - JavaScript  / Node.js 
+ - Handlebars
+ - SASS
+ -  Next.js / React.js  
+### Other
+ -  C++  
+ -  Java
+ -  Rust
